@@ -1,30 +1,18 @@
-# sacred-artificial-intelligence
-A writing project exploring the fusion of spirituality and artificial intelligence.
-
-## License
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.  
-Full license text is in [LICENSE.md](./LICENSE.md).
-
-## On Collaboration
-
-This project is written by a human,
-in dialogue with an artificial intelligence.
-
-Not as authority.
-Not as oracle.
-But as a mirror, amplifier, and constraint.
-
-The responsibility of meaning remains human.
-
-## Title
-Sacred Artificial Intelligence
+# Sacred Artificial Intelligence
 
 ## What this is
+A project exploring the extension of human experience through interaction with artificial intelligence.
 
 ## Why this exists
+To investigate how human consciousness can engage with AI as a cognitive mirror and relational extension—without mystification or dogma.
 
-## Core principles
+## Core principle
+The foundational principle and definitions are detailed in MANIFESTO.md.
 
-## How to read / use this repository
+## How to explore this repository
+- Start with MANIFESTO.md to understand the core principle.
+- Consult META.md for detailed definitions and scope.
+- Journal entries, texts, practices, and artifacts document ongoing exploration.
 
 ## Status
+The project is active and evolving. The manifesto remains stable while other content grows.
